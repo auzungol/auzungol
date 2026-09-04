@@ -16,10 +16,10 @@
 
 <div align="center">
   
-<a href="https://github.com/auzungol/neseli_dostlar_scripts"><img src="neseli-dostlar.png" width="150" alt="Neşeli Dostlar" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/auzungol/basarabilirim_app"><img src="basarabilirim.png" width="150" alt="Başarabilirim!" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/auzungol/tradetor_app"><img src="tradetor.png" width="150" alt="Tradetor" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/auzungol/Compaq_ERP"><img src="compaq-erp.png" width="150" alt="Compaq ERP" /></a>
+<a href="https://github.com/auzungol/neseli_dostlar_scripts"><img src="card-neseli-dostlar.svg" width="170" alt="Neşeli Dostlar" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/auzungol/basarabilirim_app"><img src="card-basarabilirim.svg" width="170" alt="Başarabilirim!" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/auzungol/tradetor_app"><img src="card-tradetor.svg" width="170" alt="Tradetor" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/auzungol/Compaq_ERP"><img src="card-compaq-erp.svg" width="170" alt="Compaq ERP" /></a>
 
 </div>
 
