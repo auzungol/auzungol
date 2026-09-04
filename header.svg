@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="760" height="90" viewBox="0 0 760 90" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .fadeText {
+      animation: fadeInOut 5s ease-in-out infinite;
+    }
+    @keyframes fadeInOut {
+      0%   { opacity: 0; }
+      10%  { opacity: 1; }
+      60%  { opacity: 1; }
+      75%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+  </style>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="fadeText"
+        font-family="Calibri, 'Segoe UI', 'Trebuchet MS', sans-serif" font-size="34" font-weight="400" fill="#FFFFFF">Ahmet Uzungöl - Building Something</text>
+</svg>
