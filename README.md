@@ -33,8 +33,8 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=auzungol&style=flat&color=58A6FF&labelColor=0D1117&label=Profil%20Goruntulenme" height="28" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/auzungol?style=flat&logo=github&logoColor=white&color=58A6FF&labelColor=0D1117&label=Followers" height="28" />
+<img src="extra-stats.svg" alt="Profil Görüntülenme ve Takipçi" />
+<img src="https://komarev.com/ghpvc/?username=auzungol" width="1" height="1" alt="" />
 
 </div>
 
