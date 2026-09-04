@@ -33,8 +33,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=auzungol&color=58A6FF&style=for-the-badge&label=PROFIL+GORUNTULENME)
-![Followers](https://img.shields.io/github/followers/auzungol?style=for-the-badge&color=58A6FF&labelColor=161B22)
+<img src="https://komarev.com/ghpvc/?username=auzungol&style=flat&color=58A6FF&labelColor=0D1117&label=Profil%20Goruntulenme" height="28" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/auzungol?style=flat&logo=github&logoColor=white&color=58A6FF&labelColor=0D1117&label=Followers" height="28" />
 
 </div>
 
