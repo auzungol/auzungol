@@ -30,35 +30,27 @@
 
 ### 📌 Öne çıkan projeler
 
-<div align="center">
-
-<a href="https://github.com/auzungol/basarabilirim_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=auzungol&repo=basarabilirim_app&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/auzungol/Compaq_ERP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=auzungol&repo=Compaq_ERP&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/auzungol/sumer_campus_network_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=auzungol&repo=sumer_campus_network_project&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/auzungol/tradetor_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=auzungol&repo=tradetor_app&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
+| Proje | Açıklama | Stack |
+|---|---|---|
+| [**basarabilirim_app**](https://github.com/auzungol/basarabilirim_app) | Sigara bırakma, diyet/su takibi, ders çalışma ve proje yönetimi için kişisel takip uygulaması | Flutter / Dart |
+| [**Compaq_ERP**](https://github.com/auzungol/Compaq_ERP) | Çok şubeli stok yönetimi için masaüstü ERP: ürün/malzeme kataloğu, stok hareketleri, ikmal onayları, personel & bordro | JavaFX + Spring Boot |
+| [**sumer_campus_network_project**](https://github.com/auzungol/sumer_campus_network_project) | VLAN segmentasyonu, OSPFv2 çoklu alan yönlendirme ve ACL tabanlı güvenlikle hiyerarşik kampüs ağı simülasyonu | Cisco Packet Tracer |
+| [**tradetor_app**](https://github.com/auzungol/tradetor_app) | Akıllı alarmlar ve izleme listeleriyle kripto para takip uygulaması | Flutter / Dart |
+| [**network_montioring**](https://github.com/auzungol/network_montioring) | Ağ cihazlarının erişilebilirlik ve performansını izleyen sistem (ping, gecikme, paket kaybı, anomali tespiti) | Python / Flask |
+| [**LoLGPT**](https://github.com/auzungol/LoLGPT) | League of Legends şampiyonları hakkında yerelde çalışan bir RAG asistanı | Foundry Local |
 
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=auzungol&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=auzungol&theme=github-dark&hide_border=true" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auzungol&layout=compact&theme=github_dark&hide_border=true" height="165" />
+![Profile Views](https://komarev.com/ghpvc/?username=auzungol&color=58A6FF&style=for-the-badge&label=PROFIL+GORUNTULENME)
+![Followers](https://img.shields.io/github/followers/auzungol?style=for-the-badge&color=58A6FF&labelColor=161B22)
 
 </div>
 
