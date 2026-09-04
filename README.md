@@ -23,6 +23,15 @@
 
 </div>
 
+### 📬 İletişim
+
+<div align="center">
+
+<a href="mailto:ahmetuzungl@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
