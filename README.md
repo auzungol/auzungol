@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="tech-icons.svg" alt="Java, Unity, SQL, Network" width="700" />
+<img src="tech-icons.svg" alt="Java, Unity, SQL, Network, Git" width="866" />
 
 </div>
 
