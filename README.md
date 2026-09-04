@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" alt="Ahmet Uzungöl - Building Something" width="620" />
+<img src="header.svg" alt="Ahmet Uzungöl - Building Something" width="680" />
 
 </div>
 

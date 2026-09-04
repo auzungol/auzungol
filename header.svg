@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="760" height="90" viewBox="0 0 760 90" xmlns="http://www.w3.org/2000/svg">
+<svg width="760" height="110" viewBox="0 0 760 110" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .fadeText {
-      animation: fadeInOut 5s ease-in-out infinite;
+    .fadeA {
+      animation: fadeA 6s ease-in-out infinite;
     }
-    @keyframes fadeInOut {
+    .fadeB {
+      animation: fadeB 6s ease-in-out infinite;
+    }
+    @keyframes fadeA {
       0%   { opacity: 0; }
-      10%  { opacity: 1; }
-      60%  { opacity: 1; }
-      75%  { opacity: 0; }
+      8%   { opacity: 1; }
+      42%  { opacity: 1; }
+      50%  { opacity: 0; }
       100% { opacity: 0; }
     }
+    @keyframes fadeB {
+      0%   { opacity: 0; }
+      50%  { opacity: 0; }
+      58%  { opacity: 1; }
+      92%  { opacity: 1; }
+      100% { opacity: 0; }
+    }
+    text {
+      font-family: Calibri, 'Segoe UI', 'Trebuchet MS', sans-serif;
+      font-size: 46px;
+      font-weight: 700;
+      fill: #FFFFFF;
+    }
   </style>
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="fadeText"
-        font-family="Calibri, 'Segoe UI', 'Trebuchet MS', sans-serif" font-size="34" font-weight="400" fill="#FFFFFF">Ahmet Uzungöl - Building Something</text>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="fadeA">Ahmet Uzungöl</text>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="fadeB">Building Something</text>
 </svg>
